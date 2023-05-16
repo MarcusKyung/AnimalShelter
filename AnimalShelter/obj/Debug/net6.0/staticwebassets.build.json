@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Y+rtoFPAQBTr22ON4PdDk5RGnDjY5WGkyOUtAFVTj10=",
+  "Source": "AnimalShelter",
+  "BasePath": "_content/AnimalShelter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AnimalShelter/wwwroot",
+      "Source": "AnimalShelter",
+      "ContentRoot": "/Users/qianli/Desktop/AnimalShelter.Solution/AnimalShelter/wwwroot/",
+      "BasePath": "_content/AnimalShelter",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/qianli/Desktop/AnimalShelter.Solution/AnimalShelter/wwwroot/css/styles.css",
+      "SourceId": "AnimalShelter",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/qianli/Desktop/AnimalShelter.Solution/AnimalShelter/wwwroot/",
+      "BasePath": "_content/AnimalShelter",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
+    }
+  ]
+}
