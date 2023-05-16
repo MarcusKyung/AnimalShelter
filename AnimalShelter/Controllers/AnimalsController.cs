@@ -20,6 +20,12 @@ namespace AnimalShelter.Controllers
       return View(model);
     }
 
+    public ActionResult Sort()
+    {
+      List<Animal> model = _db.Animals.OrderBy(animal => animal.Name).ToList();
+      return View(model);
+    }
+
     public ActionResult Create()
     {
       return View();
